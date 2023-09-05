@@ -1,5 +1,5 @@
 // string | number -- union operators
-// we can define 2 type of variable using |.
+// we can assign 2 type to variable using |.
 
 // type Combine = string | number | boolean;
 
@@ -42,7 +42,7 @@
 
 // Interfaces
 // In TypeScript "Interfaces" are also important; The thing we
-// we are doing with "Types" can als0 be done uisng "Interfaces".
+// we are doing with "Types" can also be done uisng "Interfaces".
 
 // The main benefit of Interfaces is it can be implemented with classes too.
 
